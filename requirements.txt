@@ -18,7 +18,7 @@ Pillow==7.1.2
 pipenv==2018.11.26
 pycodestyle==2.5.0
 pylint==2.4.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PySocks==1.7.1
 requests==2.23.0
 requests-oauthlib==1.3.0
